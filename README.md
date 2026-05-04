@@ -72,7 +72,7 @@ MISSION    = "Think like the attacker. Defend like the guardian."
 ### 📂 `Learning Path`
 
 ```
-[2024] ──▶ Started CyberSecurity journey
+[2025] ──▶ Started CyberSecurity journey
             └── Linux fundamentals
             └── Networking basics
             └── Kali Linux setup
