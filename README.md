@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=MonstrousShrj&fontSize=50&fontColor=cccccc&fontAlignY=38&desc=Ghost%20in%20the%20Machine&descAlignY=58&descSize=16&descColor=555555" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=MonstrousSh4rj&fontSize=50&fontColor=cccccc&fontAlignY=38&desc=Ghost%20in%20the%20Machine&descAlignY=58&descSize=16&descColor=555555" width="100%"/>
 
 </div>
 
@@ -24,7 +24,7 @@
 ```bash
 $ cat /etc/profile.d/shrj.sh
 
-NAME       = "MonstrousShrj"
+NAME       = "MonstrousSh4rj"
 ROLE       = "CyberSecurity Apprentice"
 LOCATION   = "Somewhere in the dark"
 STATUS     = "Learning to break things legally"
@@ -107,11 +107,11 @@ MISSION    = "Think like the attacker. Defend like the guardian."
 
 <div align="center">
 
-![MonstrousShrj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonstrousShrj&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&icon_color=666666&border_color=222222&hide_border=false)
+![MonstrousSh4rj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonstrousSh4rj&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&icon_color=666666&border_color=222222&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonstrousShrj&layout=compact&theme=dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&border_color=222222)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonstrousSh4rj&layout=compact&theme=dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&border_color=222222)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MonstrousShrj&theme=dark&background=0D0D0D&border=222222&ring=555555&fire=888888&currStreakLabel=cccccc&sideLabels=888888&dates=555555&currStreakNum=cccccc&sideNums=aaaaaa)
+![GitHub Streak](https://streak-stats.demolab.com?user=MonstrousSh4rj&theme=dark&background=0D0D0D&border=222222&ring=555555&fire=888888&currStreakLabel=cccccc&sideLabels=888888&dates=555555&currStreakNum=cccccc&sideNums=aaaaaa)
 
 </div>
 
@@ -121,7 +121,7 @@ MISSION    = "Think like the attacker. Defend like the guardian."
 
 <div align="center">
 
-![Snake animation](https://github.com/MonstrousShrj/MonstrousShrj/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/MonstrousSh4rj/MonstrousSh4rj/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
