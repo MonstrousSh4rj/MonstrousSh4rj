@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" width="180" src="https://i.imgur.com/placeholder.png" alt="ghost" style="opacity:0.6"/>
+<img align="right" width="180" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" alt="hacking"/>
 
 ### 👤 `whoami`
 
@@ -107,9 +107,9 @@ MISSION    = "Think like the attacker. Defend like the guardian."
 
 <div align="center">
 
-![MonstrousSh4rj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonstrousSh4rj&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&icon_color=666666&border_color=222222&hide_border=false)
+![MonstrousSh4rj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonstrousSh4rj&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&icon_color=666666&border_color=222222&hide_border=false&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonstrousSh4rj&layout=compact&theme=dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&border_color=222222)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonstrousSh4rj&layout=compact&theme=dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&border_color=222222&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MonstrousSh4rj&theme=dark&background=0D0D0D&border=222222&ring=555555&fire=888888&currStreakLabel=cccccc&sideLabels=888888&dates=555555&currStreakNum=cccccc&sideNums=aaaaaa)
 
