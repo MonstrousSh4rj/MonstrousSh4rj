@@ -1,99 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1a1a1a&height=220&section=header&text=MonstrousSh4rj&fontSize=52&fontColor=cccccc&fontAlignY=38&desc=Ghost%20in%20the%20Machine&descAlignY=58&descSize=18&descColor=555555&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0a,100:111111&height=240&section=header&text=MonstrousSh4rj&fontSize=58&fontColor=e0e0e0&fontAlignY=40&desc=Ghost%20in%20the%20Machine%20%7C%20CyberSec%20Apprentice&descAlignY=60&descSize=16&descColor=555555&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=CyberSecurity+Apprentice;Reverse+Engineer+in+Progress;Learning+to+break+things+legally...;Think+like+the+attacker.)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=777777&center=true&vCenter=true&width=560&lines=Reverse+Engineering+%7C+OSINT+%7C+CTF+Challenges;Think+like+the+attacker.+Defend+like+the+guardian.;Building.+Breaking.+Learning.+Repeat.;%24+whoami+%E2%80%94%3E+still+loading...)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  "The quieter you become, the more you can hear."        ║
-║                              — lurking since day one     ║
-╚══════════════════════════════════════════════════════════╝
-```
-
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "The quieter you become, the more you can hear."           ║
+║                                        — lurking since ever  ║
+╚══════════════════════════════════════════════════════════════╝
 </div>
 
 ---
 
-### 👤 `whoami`
+## `$ whoami`
 
-```bash
-$ cat /etc/profile.d/shrj.sh
-
-NAME       = "MonstrousSh4rj"
-ROLE       = "CyberSecurity Apprentice"
-LOCATION   = "Somewhere in the dark"
-STATUS     = "Learning to break things legally"
-MISSION    = "Think like the attacker. Defend like the guardian."
+```yaml
+name       : MonstrousSh4rj
+role       : CyberSecurity Apprentice
+location   : Somewhere in the dark
+os         : Kali Linux / Windows (dual boot)
+status     : Learning to break things — legally
+mission    : Think like the attacker. Defend like the guardian.
 ```
 
 ---
 
-### 🧠 `Current Focus`
-
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  ⚙  Reverse Engineering   [████████░░░░]   60%     │
-│  🔍 OSINT / Recon          [██████░░░░░░]   50%     │
-│  🐉 Kali Linux             [███████░░░░░]   55%     │
-│  🔬 Binary Analysis        [█████░░░░░░░]   40%     │
-│  🌐 Network Recon          [████░░░░░░░░]   35%     │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
+## `$ cat skills.log`
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  [ Reverse Engineering ]   ████████░░░░░░░░   55%           │
+│  [ OSINT / Recon       ]   ██████░░░░░░░░░░   50%           │
+│  [ Kali Linux          ]   ███████░░░░░░░░░   60%           │
+│  [ Binary Analysis     ]   █████░░░░░░░░░░░   40%           │
+│  [ Network Recon       ]   ████░░░░░░░░░░░░   35%           │
+│  [ Python / Scripting  ]   ██████░░░░░░░░░░   50%           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ---
 
-### ⚙️ `Tools of the Trade`
+## `$ ls /tools/`
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-555555?style=for-the-badge&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF2200?style=for-the-badge&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-444444?style=for-the-badge&logoColor=white)
+
 ![Maltego](https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logoColor=white)
 ![Shodan](https://img.shields.io/badge/Shodan-AA0000?style=for-the-badge&logoColor=white)
 ![theHarvester](https://img.shields.io/badge/theHarvester-222222?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 
 </div>
 
 ---
 
-### 📂 `Learning Path`
+## `$ cat roadmap.txt`
+┌─────────────────────────────────┐
+                 │       OPERATION: LEVEL UP        │
+                 └────────────────┬────────────────┘
+                                  │
+       ┌──────────────────────────▼──────────────────────────┐
+       │  [2025]  ORIGIN STORY                                │
+       │  ├── ✅  Linux fundamentals                          │
+       │  ├── ✅  Networking basics (TCP/IP, OSI)             │
+       │  └── ✅  Kali Linux environment setup                │
+       └──────────────────────────┬──────────────────────────┘
+                                  │
+       ┌──────────────────────────▼──────────────────────────┐
+       │  [NOW]   CURRENT OPS                                 │
+       │  ├── 🔄  Reverse engineering binaries                │
+       │  ├── 🔄  OSINT & reconnaissance                      │
+       │  ├── 🔄  CTF challenges (TryHackMe / PicoCTF)        │
+       │  └── 🔄  Building custom recon scripts               │
+       └──────────────────────────┬──────────────────────────┘
+                                  │
+       ┌──────────────────────────▼──────────────────────────┐
+       │  [NEXT]  INCOMING...                                 │
+       │  ├── 🎯  Malware analysis                            │
+       │  ├── 🎯  Exploit development                         │
+       │  └── 🎯  Bug bounty hunting                          │
+       └─────────────────────────────────────────────────────┘
+       ---
 
-```
-[2025] ──▶ Started CyberSecurity journey
-            ├── Linux fundamentals
-            ├── Networking basics
-            └── Kali Linux setup
-
-[NOW]  ──▶ Diving deeper
-            ├── Reverse Engineering binaries
-            ├── OSINT investigations
-            ├── CTF challenges
-            └── Building recon scripts
-
-[NEXT] ──▶ Coming soon...
-            ├── Malware analysis
-            ├── Exploit development
-            └── Bug bounty hunting
-```
-
----
-
-### 🧪 `Platforms & Practice`
+## `$ netstat -platforms`
 
 <div align="center">
 
@@ -105,25 +111,28 @@ MISSION    = "Think like the attacker. Defend like the guardian."
 
 ---
 
-### 📊 `GitHub Stats`
+## `$ git log --stats`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonstrousSh4rj&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&icon_color=666666&border_color=222222)
+<a href="https://github.com/MonstrousSh4rj">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MonstrousSh4rj&show_icons=true&theme=github_dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&icon_color=555555&border_color=1f1f1f&border_radius=8&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonstrousSh4rj&layout=compact&theme=github_dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&border_color=1f1f1f&border_radius=8&langs_count=6" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonstrousSh4rj&layout=compact&theme=dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&border_color=222222)
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MonstrousSh4rj&theme=dark&background=0D0D0D&border=222222&ring=555555&fire=888888&currStreakLabel=cccccc&sideLabels=888888&dates=555555&currStreakNum=cccccc&sideNums=aaaaaa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MonstrousSh4rj&theme=dark&background=0D0D0D&border=1f1f1f&ring=444444&fire=888888&currStreakLabel=cccccc&sideLabels=777777&dates=444444&currStreakNum=cccccc&sideNums=aaaaaa)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🌑 `Activity`
+## `$ tail -f activity.log`
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MonstrousSh4rj&theme=github-compact&bg_color=0d0d0d&color=666666&line=444444&point=888888&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MonstrousSh4rj&theme=github-compact&bg_color=0d0d0d&color=555555&line=333333&point=777777&area=true&hide_border=true)](https://github.com/MonstrousSh4rj)
 
 </div>
 
@@ -131,12 +140,18 @@ MISSION    = "Think like the attacker. Defend like the guardian."
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=MonstrousSh4rj&color=grey&style=flat-square&label=VISITORS)
+![Visitors](https://komarev.com/ghpvc/?username=MonstrousSh4rj&color=444444&style=flat-square&label=VISITORS)
+&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/MonstrousSh4rj?style=flat-square&color=444444&labelColor=0d0d0d&label=FOLLOWERS)
 
-```
-🔒  Building.  Breaking.  Learning.  Repeat.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
+<br/><br/>
+██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗
+██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝
+██║  ███╗███████║██║   ██║███████╗   ██║
+██║   ██║██╔══██║██║   ██║╚════██║   ██║
+╚██████╔╝██║  ██║╚██████╔╝███████║   ██║
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝
+[ Building ] [ Breaking ] [ Learning ] [ Repeat ]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=130&section=footer" width="100%"/>
 
 </div>
