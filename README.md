@@ -117,9 +117,10 @@ MISSION    = "Think like the attacker. Defend like the guardian."
   </tr>
 </table>
 <br>
-<img width="100%" src="https://streak-stats.demolab.com?user=MonstrousSh4rj&theme=dark&background=0a0a0a&border=1f1f1f&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=cccccc&stroke=0a0a0a"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=MonstrousSh4rj&theme=dark&background=0d0d0d&border=1a1a1a&ring=ff2200&fire=ff4400&currStreakLabel=ffffff&sideLabels=666666&dates=333333&currStreakNum=ffffff&sideNums=cccccc&stroke=ff2200&type=svg&hide_border=false&broken_style=default&broken_color=222222"/>
 </div>
 <br>
+
 
 ---
 
