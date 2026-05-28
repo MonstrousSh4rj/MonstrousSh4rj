@@ -126,9 +126,9 @@ MISSION    = "Think like the attacker. Defend like the guardian."
 
 ---
 
-### 🌑 `Activity`
+### `> cat terminal.live`
 
-![terminal](https://raw.githubusercontent.com/MonstrousSh4rj/MonstrousSh4rj/main/terminal.svg)
+![terminal](https://raw.githubusercontent.com/MonstrousSh4rj/MonstrousSh4rj/main/MonstrousSh4rj/terminal.svg)
 
 ---
 
