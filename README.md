@@ -105,15 +105,21 @@ MISSION    = "Think like the attacker. Defend like the guardian."
 
 ### 📊 `GitHub Stats`
 
-<div align="center">
-
-![MonstrousSh4rj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonstrousSh4rj&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&icon_color=666666&border_color=222222&hide_border=false&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonstrousSh4rj&layout=compact&theme=dark&bg_color=0d0d0d&title_color=cccccc&text_color=888888&border_color=222222&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MonstrousSh4rj&theme=dark&background=0D0D0D&border=222222&ring=555555&fire=888888&currStreakLabel=cccccc&sideLabels=888888&dates=555555&currStreakNum=cccccc&sideNums=aaaaaa)
-
+<br>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats-lac-one-75.vercel.app/api?username=MonstrousSh4rj&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=1f1f1f&cache_seconds=1800&rank_icon=github&include_all_commits=true&count_private=true"/>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats-lac-one-75.vercel.app/api/top-langs/?username=MonstrousSh4rj&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=888888&border_color=1f1f1f&cache_seconds=1800&hide_border=false"/>
+    </td>
+  </tr>
+</table>
+<br>
+<img width="100%" src="https://streak-stats.demolab.com?user=MonstrousSh4rj&theme=dark&background=0a0a0a&border=1f1f1f&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=cccccc&stroke=0a0a0a"/>
 </div>
+<br>
 
 ---
 
