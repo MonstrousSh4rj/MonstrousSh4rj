@@ -1,0 +1,102 @@
+<svg width="900" height="500" viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Hacking Terminal — MonstrousSh4rj</title>
+<desc>Animated terminal showing nmap, osint and ghidra commands</desc>
+
+<rect width="900" height="500" rx="12" fill="#080808"/>
+<rect x="0.5" y="0.5" width="899" height="499" rx="12" fill="none" stroke="#181818" stroke-width="1"/>
+
+<rect width="900" height="36" rx="12" fill="#0d0d0d"/>
+<rect y="24" width="900" height="12" fill="#0d0d0d"/>
+<rect y="35" width="900" height="1" fill="#161616"/>
+
+<circle cx="22" cy="18" r="6" fill="#1c0000"/>
+<circle cx="42" cy="18" r="6" fill="#1a1800"/>
+<circle cx="62" cy="18" r="6" fill="#001800"/>
+
+<text x="450" y="23" text-anchor="middle" font-family="monospace" font-size="11" fill="#2a2a2a" letter-spacing="2">phantom@MonstrousSh4rj:~</text>
+
+<line x1="20" y1="48" x2="880" y2="48" stroke="#111111" stroke-width="0.5"/>
+
+<text font-family="monospace" font-size="12.5" fill="#2d2d2d">
+  <tspan x="20" y="72">root@void:~/phantom$ </tspan><tspan fill="#555555" opacity="0">nmap -sV -p 22,80,443 192.168.1.1<animate attributeName="opacity" values="0;1" begin="0.5s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="92" fill="#333333" opacity="0">Starting Nmap 7.94 — host discovery enabled<animate attributeName="opacity" values="0;1" begin="1.2s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="110" fill="#2a2a2a" opacity="0">PORT    STATE  SERVICE   VERSION<animate attributeName="opacity" values="0;1" begin="1.8s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="128" fill="#3a3a3a" opacity="0">22/tcp  <tspan fill="#555555">open</tspan>   ssh       <tspan fill="#444444">OpenSSH 8.9p1</tspan><animate attributeName="opacity" values="0;1" begin="2.2s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="146" fill="#3a3a3a" opacity="0">80/tcp  <tspan fill="#555555">open</tspan>   http      <tspan fill="#444444">Apache httpd 2.4.52</tspan><animate attributeName="opacity" values="0;1" begin="2.5s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="164" fill="#3a3a3a" opacity="0">443/tcp <tspan fill="#555555">open</tspan>   https     <tspan fill="#444444">nginx 1.18.0</tspan><animate attributeName="opacity" values="0;1" begin="2.8s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="182" fill="#444444" opacity="0">Nmap done: 1 IP address (1 host up) scanned in 3.42s<animate attributeName="opacity" values="0;1" begin="3.2s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+
+<line x1="20" y1="196" x2="880" y2="196" stroke="#111111" stroke-width="0.5">
+  <animate attributeName="opacity" values="0;1" begin="3.6s" dur="0.1s" fill="freeze"/>
+</line>
+
+<text font-family="monospace" font-size="12.5" fill="#2d2d2d">
+  <tspan x="20" y="218" opacity="0">root@void:~/phantom$ <tspan fill="#555555">theHarvester -d target.com -b all</tspan><animate attributeName="opacity" values="0;1" begin="4.0s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="238" fill="#333333" opacity="0">[*] Target: target.com — running all sources<animate attributeName="opacity" values="0;1" begin="4.8s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="256" fill="#3a3a3a" opacity="0">[+] Emails:    admin@target.com, dev@target.com, cto@target.com<animate attributeName="opacity" values="0;1" begin="5.3s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="274" fill="#3a3a3a" opacity="0">[+] Hosts:     mail.target.com, api.target.com, staging.target.com<animate attributeName="opacity" values="0;1" begin="5.8s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="292" fill="#3a3a3a" opacity="0">[+] IPs:       104.21.x.x, 172.67.x.x, 45.33.x.x<animate attributeName="opacity" values="0;1" begin="6.2s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="310" fill="#444444" opacity="0">[*] Done. Results saved to target_osint.json<animate attributeName="opacity" values="0;1" begin="6.6s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+
+<line x1="20" y1="324" x2="880" y2="324" stroke="#111111" stroke-width="0.5">
+  <animate attributeName="opacity" values="0;1" begin="7.0s" dur="0.1s" fill="freeze"/>
+</line>
+
+<text font-family="monospace" font-size="12.5" fill="#2d2d2d">
+  <tspan x="20" y="346" opacity="0">root@void:~/phantom$ <tspan fill="#555555">ghidra -import target.bin -analyze</tspan><animate attributeName="opacity" values="0;1" begin="7.5s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="366" fill="#333333" opacity="0">[*] Loading binary... ELF 64-bit LSB executable<animate attributeName="opacity" values="0;1" begin="8.2s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="384" fill="#3a3a3a" opacity="0">[+] Functions: 2847  Strings: 1203  Imports: 341<animate attributeName="opacity" values="0;1" begin="8.8s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="402" fill="#3a3a3a" opacity="0">[+] Entropy:   7.94 — possible packer detected<animate attributeName="opacity" values="0;1" begin="9.3s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="420" fill="#666666" opacity="0">[!] VULN: Buffer overflow @ 0x00401337 — severity: CRITICAL<animate attributeName="opacity" values="0;1" begin="9.8s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+<text font-family="monospace" font-size="12.5">
+  <tspan x="20" y="438" fill="#444444" opacity="0">[*] Report written to ./reports/target_analysis.txt<animate attributeName="opacity" values="0;1" begin="10.3s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+
+<line x1="20" y1="452" x2="880" y2="452" stroke="#111111" stroke-width="0.5">
+  <animate attributeName="opacity" values="0;1" begin="10.7s" dur="0.1s" fill="freeze"/>
+</line>
+
+<text font-family="monospace" font-size="12.5" fill="#2d2d2d">
+  <tspan x="20" y="474" opacity="0">root@void:~/phantom$ <animate attributeName="opacity" values="0;1" begin="11.0s" dur="0.1s" fill="freeze"/></tspan>
+</text>
+
+<rect x="196" y="461" width="9" height="15" fill="#555555" rx="1" opacity="0">
+  <animate attributeName="opacity" values="0;1" begin="11.0s" dur="0.1s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;0;1;0;1;0;1" begin="11.1s" dur="1s" repeatCount="indefinite"/>
+</rect>
+
+</svg>
