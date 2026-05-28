@@ -128,11 +128,7 @@ MISSION    = "Think like the attacker. Defend like the guardian."
 
 ### 🌑 `Activity`
 
-<div align="center">
-
-![Snake animation](https://github.com/MonstrousSh4rj/MonstrousSh4rj/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+![terminal](https://raw.githubusercontent.com/MonstrousSh4rj/MonstrousSh4rj/main/terminal.svg)
 
 ---
 
